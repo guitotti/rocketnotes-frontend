@@ -60,8 +60,8 @@ export function New() {
     await api.post("/notes", {
       title, 
       description,
-      tags,
-      links
+      links,
+      tags
     });
 
     alert("Nota criada com sucesso!");
