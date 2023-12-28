@@ -21,7 +21,7 @@ export function Details() {
   }
 
   async function handleRemove() {
-    const confirm = window.conirm("Deseja realmente remover a nota?");
+    const confirm = window.confirm("Deseja realmente remover a nota?");
 
     if(confirm) {
       await api.delete(`/notes/${params.id}`);
