@@ -1,8 +1,6 @@
-### [Projeto em desenvolvimento]
+## 🧩 **Projeto desenvolvido para estudo pessoal.**
 
-## 🧩 **Projeto em desenvolvimento para estudo pessoal.**
-
-Projeto em desenvolvimento em conjunto com as aulas dos Stages 08, 09 e 10 da trilha Explorer da @Rocketseat
+Projeto desenvolvido durante os Stages 08, 09 e 10 da trilha Explorer da @Rocketseat
 
 ### 🎯 Desafio
 
